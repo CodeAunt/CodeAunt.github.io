@@ -3,28 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://codeaunt.github.io/blog/about/</loc>
+    <loc>https://codeaunt.github.io/author/</loc>
+    <lastmod>2020-10-03T19:15:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeaunt.github.io/post/my-first-blog/</loc>
+    <lastmod>2020-10-03T19:15:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeaunt.github.io/post/</loc>
+    <lastmod>2020-10-03T19:15:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeaunt.github.io/</loc>
+    <lastmod>2020-10-03T19:15:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeaunt.github.io/author/zhouzili/</loc>
+    <lastmod>2020-10-03T19:15:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeaunt.github.io/about/</loc>
     <lastmod>2020-10-03T17:13:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://codeaunt.github.io/blog/author/</loc>
+    <loc>https://codeaunt.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://codeaunt.github.io/blog/categories/</loc>
+    <loc>https://codeaunt.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>https://codeaunt.github.io/blog/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://codeaunt.github.io/blog/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://codeaunt.github.io/blog/</loc>
+    <loc>https://codeaunt.github.io/tags/</loc>
   </url>
   
 </urlset>
