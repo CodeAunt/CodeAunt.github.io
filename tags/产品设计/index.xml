@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zhouzili on Zhou Zili</title>
-    <link>https://codeaunt.github.io/author/zhouzili/</link>
-    <description>Recent content in zhouzili on Zhou Zili</description>
+    <title>产品设计 on Zhou Zili</title>
+    <link>https://codeaunt.github.io/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in 产品设计 on Zhou Zili</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 07 Oct 2020 15:50:26 +0800</lastBuildDate>
     
-	<atom:link href="https://codeaunt.github.io/author/zhouzili/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codeaunt.github.io/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -359,18 +359,6 @@ eg: 不论是相亲还是其它的事，看得上我的人我看不上，我看�
 这就是我们刚才说的最内核是存在感，它的外面一层是能力圈。
 第四层是人的能力圈 如果一个人的存在感满足了，其实他的能力圈就不会再扩充了。就好像说好多女人结了婚就不化妆了，男人满足了就不奋斗了是一样的。
 因为扩充能力圈其实是一件很痛苦的事情，你想狮子为了吃饭去杀长颈鹿，其实它挨打也是极其痛苦的。</description>
-    </item>
-    
-    <item>
-      <title>My First Blog</title>
-      <link>https://codeaunt.github.io/post/my-first-blog/</link>
-      <pubDate>Sat, 03 Oct 2020 19:15:25 +0800</pubDate>
-      
-      <guid>https://codeaunt.github.io/post/my-first-blog/</guid>
-      <description>Hi, this is my first post article.
-And I wanna try a photo&amp;hellip;
-Ok, then code block
-class Friend{ /** * */ } Finish.</description>
     </item>
     
   </channel>

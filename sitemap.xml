@@ -13,12 +13,27 @@
   </url>
   
   <url>
+    <loc>https://codeaunt.github.io/tags/</loc>
+    <lastmod>2020-10-07T15:50:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://codeaunt.github.io/</loc>
     <lastmod>2020-10-07T15:50:26+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://codeaunt.github.io/author/zhouzili/</loc>
+    <lastmod>2020-10-07T15:50:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeaunt.github.io/tags/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0/</loc>
+    <lastmod>2020-10-07T15:50:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeaunt.github.io/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2020-10-07T15:50:26+08:00</lastmod>
   </url>
   
@@ -83,10 +98,6 @@
   
   <url>
     <loc>https://codeaunt.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://codeaunt.github.io/tags/</loc>
   </url>
   
 </urlset>
