@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>设计研究 on Zhou Zili</title>
+    <link>https://codeaunt.github.io/tags/%E8%AE%BE%E8%AE%A1%E7%A0%94%E7%A9%B6/</link>
+    <description>Recent content in 设计研究 on Zhou Zili</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 11 Oct 2020 23:43:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://codeaunt.github.io/tags/%E8%AE%BE%E8%AE%A1%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>推荐统计软件： Jamovi 或 JASP</title>
+      <link>https://codeaunt.github.io/post/designresearch01/</link>
+      <pubDate>Sun, 11 Oct 2020 23:43:37 +0800</pubDate>
+      
+      <guid>https://codeaunt.github.io/post/designresearch01/</guid>
+      <description>本课程推荐使用两款免费的开源统计软件 Jamovi 和 JASP （可以任选其一） （习惯编程环境的同学可以用 R；优秀商业软件包括 SPSS、XLStat 等）
+Jamovi （包含比较多的传统统计分析方法） 官网：https://www.jamovi.org/ B站中文学习资料：https://www.bilibili.com/video/BV1qt411G7Ne YouTube 英文学习资料：jamovi for Data Analysis - Full Tutorial https://www.youtube.com/watch?v=mZomeS0tLxY
+JASP （相对而言 统计分析方法较少，但界面比较合我眼缘，主攻 Bayesian分析） B站学习资料：https://space.bilibili.com/249535471?from=search&amp;amp;seid=4650034742132204378</description>
+    </item>
+    
+  </channel>
+</rss>
